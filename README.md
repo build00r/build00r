@@ -6,7 +6,8 @@ I'm a software engineer based in Kolkata. I'm currently learning `web3` and `fro
 Connect with me, follow my progress :
 
 <a href="https://twitter.com/build000r">
-  <img align="left" alt="Twitter - build000r" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter - build000r" width="22px" 
+    src="https://raw.githubusercontent.com/build000r/build000r/290d10fb933379d111ed76bc58ae84c4fbc9c440/twitter.svg" />
 </a>
 <a href="https://discordapp.com/users/839508027446788126">
   <img align="left" alt="Discord - build000r" width="22px" src="https://raw.githubusercontent.com/build000r/build000r/807429290544be1a395d482ba783cfd9ec9ced50/discord.svg" />
